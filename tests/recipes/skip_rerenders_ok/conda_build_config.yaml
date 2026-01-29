@@ -1,7 +1,0 @@
-# https://github.com/conda-forge/conda-smithy/issues/1617
-mpi:
-  - openmpi
-  - nompi
-double:
-  - "no"
-  - "yes"
